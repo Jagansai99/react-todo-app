@@ -100,7 +100,7 @@ Create a React application that allows users to manage a to-do list with the fol
 ### Clone this repo
 
 ```
-git clone https://github.com/dhyanpatel110/pokemon.git
+git clone https://github.com/Jagansai99/react-todo-app.git
 ```
 
 ### Install dependencies
